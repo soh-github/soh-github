@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![](https://skillicons.dev/icons?i=html,css,js,jquery,typescript,react,vue,next,python,php,laravel,vscode,phpstorm)
 <!--
 **soh-github/soh-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+
+
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=soh-github&show_icons=true)](https://github.com/soh-github/github-readme-stats)
 -->
