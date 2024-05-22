@@ -1,5 +1,16 @@
 ## Hi there 👋
-![](https://skillicons.dev/icons?i=html,css,js,jquery,typescript,react,vue,next,python,php,laravel,vscode,phpstorm)
+
+FrontEnd
+
+![](https://skillicons.dev/icons?i=html,css,js,jquery,typescript,react,vue,next)
+
+BackEnd
+
+![](https://skillicons.dev/icons?i=python,php,laravel)
+
+Tools
+
+![](https://skillicons.dev/icons?i=docker,figma,vscode,phpstorm)
 <!--
 **soh-github/soh-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
